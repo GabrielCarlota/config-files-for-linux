@@ -1,0 +1,75 @@
+* {
+  border: none;
+  min-height: 0;
+  font-family: "JetBrains Nerd Font Mono";
+  font-weight: 500;
+  font-size: 14px;
+  padding: 1;
+}
+
+window#waybar {
+  background: rgba(255, 255, 255, 0);
+  border: 2px solid rgba(255, 255, 255, 0.164);
+  border-radius: 4px;
+}
+/*
+tooltip {
+  background-color: #353146;
+  border: 2px solid rgba(32, 16, 75, 0.432);
+  font-size: 2px;
+}
+
+tooltip label {
+  margin: 8px;
+  color: rgba(32, 16, 75, 0.432);
+}
+*/
+
+#battery,
+#tray,
+#custom-logoff,
+#clock,
+#tray,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#language {
+  padding: 4px 8px;
+}
+
+#workspaces {
+  margin: 6px 0px 6px 6px;
+  border-radius: 4px;
+}
+
+#workspaces button {
+  all: initial;
+  padding: 2px 4px;
+  color: rgb(190, 190, 190);
+  background-color: #2b2b2b;
+  border: 2px solid rgba(32, 16, 75, 0.432);
+  border-radius: 4px;
+  margin-right: 2px;
+}
+
+#workspaces button.active {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
+
+/*
+#workspaces button.urgent {
+  background-color: #e542c0;
+  color: #1f1c27;
+  border: 2px solid #e542c0;
+}
+*/
+
+/*
+{
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgba(32, 16, 75, 0.432);
+  color: rgb(228, 228, 228);
+}
+*/

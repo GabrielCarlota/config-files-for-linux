@@ -1,0 +1,6 @@
+2025/05/15-04:25:15.384 cf4 Creating DB /home/gab/.config/chromium/Default/IndexedDB/https_www.wallpaper.com_0.indexeddb.leveldb since it was missing.
+2025/05/15-04:25:15.386 cf4 Reusing MANIFEST /home/gab/.config/chromium/Default/IndexedDB/https_www.wallpaper.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/15-04:25:29.770 ce9 Level-0 table #5: started
+2025/05/15-04:25:29.771 ce9 Level-0 table #5: 8642 bytes OK
+2025/05/15-04:25:29.772 ce9 Delete type=0 #3
+2025/05/15-04:25:29.772 ce9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

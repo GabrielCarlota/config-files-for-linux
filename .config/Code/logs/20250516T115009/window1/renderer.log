@@ -1,0 +1,28 @@
+2025-05-16 11:50:10.403 [info] Started local extension host with pid 76626.
+2025-05-16 11:50:10.436 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-16 11:50:10.548 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 11:50:10.581 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Generates an app shell for running a server-side version of an app.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.582 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Generates a new basic app definition in the "projects" subfolder of the workspace.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.582 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic class definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.582 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic component definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.582 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic directive definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.582 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Generates a new, generic enum definition for the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.582 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Generates a new, generic route guard definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new, generic interceptor definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic interface definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic library project in the current workspace.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic NgModule definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic pipe definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new, generic service definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Pass this schematic to the "run" command to create a service worker` which is not defined in the 'commands' section.
+2025-05-16 11:50:10.583 [warning] [segerdekort.angular-cli]: Menu item references an alt-command `Creates a new generic web worker definition in the given or default project.` which is not defined in the 'commands' section.
+2025-05-16 11:50:11.029 [error] [1tontech.angular-material]: Unknown language in `contributes.angular-material.language`. Provided value: blade
+2025-05-16 11:50:11.029 [error] [1tontech.angular-material]: Unknown language in `contributes.angular-material.language`. Provided value: ejs
+2025-05-16 11:50:11.029 [error] [1tontech.angular-material]: Unknown language in `contributes.angular-material.language`. Provided value: latte
+2025-05-16 11:50:11.029 [error] [1tontech.angular-material]: Unknown language in `contributes.angular-material.language`. Provided value: tpl
+2025-05-16 11:50:11.029 [error] [1tontech.angular-material]: Unknown language in `contributes.angular-material.language`. Provided value: twig
+2025-05-16 11:50:11.079 [info] Settings Sync: Token updated for the account GabrielCarlota
+2025-05-16 11:50:11.125 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-16 11:50:12.951 [info] [perf] Render performance baseline is 19ms
+2025-05-16 11:50:16.574 [info] Auto updating outdated extensions. pkief.material-icon-theme
+2025-05-16 11:50:16.727 [error] Failed to fetch token entitlements Server returned 403

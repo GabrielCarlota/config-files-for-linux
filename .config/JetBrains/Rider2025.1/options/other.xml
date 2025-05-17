@@ -1,0 +1,64 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="C#" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Debug.Allow.Typing": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "NextRunPlatformUpdateBuild": "RD-251.25410.119",
+    "NextRunPlatformUpdateSelfBuild": "RD-251.23774.437",
+    "NextRunPlatformUpdateVersion": "2025.1.2",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Current.Build.Use.Start": "2025-05-15T07:41:43.513651435Z",
+    "Rider.Last.Observed.New.UI.State": "true",
+    "Rider.Last.Started.IDE.Build": "RD-251.23774.437",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.llm.onboarding.window.launcher.v7": "true",
+    "evlsprt.251": "196c26f5b80",
+    "evlsprt3.251": "3",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.23774.437",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "input.method.disabler.muted": "true",
+    "last_open_solution_path": "/home/gab/SupportMe",
+    "last_opened_file_path": "/home/gab/SupportMe",
+    "last_selected_project_template": "Project Type_Console",
+    "last_selected_project_template_parameters": "createDirectoryForSolution=true;Microsoft.Common.Console.CSharp.9.0:UseProgramMain=false;DockerSupport=false;Microsoft.Common.Console.CSharp.9.0:langVersion=;DockerCompose=false;sameDirectory=false;TargetFramework=net9.0_net9.0_true;Type=Console App;Language=C#;SDK=9.0;createGitRepository=false;Framework=net9.0;Microsoft.Common.Console.CSharp.9.0:NativeAot=false;",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Rider Dark",
+    "registry.to.advanced.settings.migration.build": "RD-251.23774.437",
+    "rider.tool.window.stripe.manager.enable": "true",
+    "terminal.gen.one.option.visible": "false",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "5.6.3",
+    "whats.new.last.shown.version": "2025-1-23774-67331011d0b06121fa3733c5751e1180ac468557"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/gab/SupportMe"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

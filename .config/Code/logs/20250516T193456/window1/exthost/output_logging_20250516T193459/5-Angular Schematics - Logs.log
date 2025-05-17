@@ -1,0 +1,24 @@
+[Info - 7:35:01 PM] Starting workspace configuration loading.
+[Info - 7:35:01 PM] 1 workspace folder(s) detected.
+[Info - 7:35:01 PM] Loading configuration of "SupportMe" workspace folder.
+[Info - 7:35:01 PM] Loading extension configuration
+[Info - 7:35:01 PM] Loading extension configuration from VS Code settings.
+[Info - 7:35:01 PM] Loading dependencies config from package.json.
+[Info - 7:35:01 PM] Found: /home/gab/Desktop/SupportMe/package.json
+[Info - 7:35:01 PM] Found: /home/gab/Desktop/package.json
+[Info - 7:35:01 PM] Found: /home/gab/package.json
+[Info - 7:35:01 PM] Found: /home/package.json
+[Info - 7:35:01 PM] Loading format configuration
+[Info - 7:35:01 PM] Loading schematics.
+[Info - 7:35:01 PM] 9 schematic(s) loaded.
+[Info - 7:35:01 PM] Loading Angular configuration from: /home/gab/Desktop/SupportMe/Angular/AngularClient/angular.json
+[Info - 7:35:01 PM] Loading "_0x304fbb" Angular project's lint configuration.
+[Info - 7:35:01 PM] "AngularClient" Angular project is of type "application" and its source path is: Angular/AngularClient/src.
+[Info - 7:35:01 PM] 1 Angular project(s) detected.
+[Info - 7:35:01 PM] Configuration of all workspace folders is now ready. Duration: 186ms
+[Info - 7:35:01 PM] Reloading format configuration because VS Code settings changed.
+[Info - 8:49:16 PM] Reloading dependencies config because package.json changed.
+[Info - 8:49:16 PM] Reloading Angular configuration because dependencies changed.
+[Info - 8:49:16 PM] Loading "_0x304fbb" Angular project's lint configuration.
+[Info - 8:49:16 PM] "AngularClient" Angular project is of type "application" and its source path is: Angular/AngularClient/src.
+[Info - 8:49:16 PM] 1 Angular project(s) detected.

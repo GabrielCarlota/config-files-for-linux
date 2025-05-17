@@ -1,0 +1,326 @@
+* {
+  border: none;
+  border-radius: 0px;
+  /*font-family: VictorMono, Iosevka Nerd Font, Noto Sans CJK;*/
+  font-family: Jet Brains Nerd Font, monospace, Noto Sans CJK;
+  font-size: 15px;
+  font-style: normal;
+  min-height: 0;
+}
+
+window#waybar {
+  background: rgba(255, 255, 255, 0);
+  color: #f4d9e1;
+}
+
+#workspaces {
+  background: #282828;
+  margin: 5px 5px 5px 5px;
+  padding: 0px 5px 0px 5px;
+  border-radius: 16px;
+  border: solid 0px #f4d9e1;
+  font-weight: normal;
+  font-style: normal;
+}
+#workspaces button {
+  padding: 0px 5px;
+  border-radius: 16px;
+  color: #afafaf;
+}
+
+#workspaces button.active {
+  color: #000000;
+  background-color: rgba(0, 0, 0, 0.137);
+  border-radius: 16px;
+  border: #000000 dotted;
+}
+
+#workspaces button:hover {
+  background-color: rgba(0, 0, 0, 0.137);
+  color: black;
+  border-radius: 16px;
+}
+
+#custom-date,
+#clock,
+#battery,
+#pulseaudio,
+#network,
+#custom-randwall,
+#custom-launcher,
+#network,
+#temperature,
+#custom-power,
+#workspaces,
+#cpu,
+#memory,
+#power-profiles-daemon,
+#hyprland-window,
+#window,
+#battery,
+#clock,
+#keyboard-state {
+  background: transparent;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+  border-radius: 8px;
+  border: solid 0px #f4d9e1;
+  color: #e0a2fd;
+  background: #282828;
+}
+
+#custom-date {
+  color: #d3869b;
+}
+
+#tray {
+  background: #282828;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border-radius: 5px;
+  padding: 0px 5px;
+  /*border-right: solid 1px #282738;*/
+}
+
+#clock {
+  background-color: #282828;
+  border-radius: 0px 0px 0px 24px;
+  padding-left: 13px;
+  padding-right: 15px;
+  margin-right: 0px;
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+  /*border-left: solid 1px #282738;*/
+}
+
+#battery {
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px 15px 10px 15px;
+  font-weight: bold;
+}
+
+#battery.charging {
+  color: #84ff00;
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#battery.warning:not(.charging) {
+  background-color: #f7768e;
+  color: #24283b;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#backlight {
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#network {
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#temperature {
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#custom-power {
+  background-color: #282828;
+  font-size: 22px;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#pulseaudio {
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#pulseaudio.muted {
+  background: transparent;
+  color: #928374;
+  border-radius: 8px;
+  margin-left: 0px;
+}
+
+#custom-randwall {
+  color: #f4d9e1;
+  border-radius: 8px;
+  margin-right: 0px;
+}
+
+#custom-launcher {
+  color: #e5809e;
+  background-color: #282828;
+  border-radius: 0px 24px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  padding: 0 20px 0 13px;
+  /*border-right: solid 1px #282738;*/
+  font-size: 20px;
+}
+
+#custom-launcher button:hover {
+  background-color: #fb4934;
+  color: transparent;
+  border-radius: 8px;
+  margin-right: -5px;
+  margin-left: 10px;
+}
+
+#custom-playerctl {
+  background: #282828;
+  padding-left: 15px;
+  padding-right: 14px;
+  border-radius: 16px;
+  /*border-left: solid 1px #282738;*/
+  /*border-right: solid 1px #282738;*/
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+}
+
+#custom-playerlabel {
+  background: transparent;
+  padding-left: 10px;
+  padding-right: 15px;
+  border-radius: 16px;
+  /*border-left: solid 1px #282738;*/
+  /*border-right: solid 1px #282738;*/
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: normal;
+  font-style: normal;
+}
+
+#window {
+  background: #282828;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 16px;
+  /*border-left: solid 1px #282738;*/
+  /*border-right: solid 1px #282738;*/
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: normal;
+  font-style: normal;
+}
+
+#custom-wf-recorder {
+  padding: 0 20px;
+  color: #e5809e;
+  background-color: #1e1e2e;
+}
+
+#cpu {
+  background-color: #282828;
+  /*color: #FABD2D;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#memory {
+  background-color: #282828;
+  /*color: #83A598;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#disk {
+  background-color: #282828;
+  /*color: #8EC07C;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  font-weight: bold;
+}
+
+#custom-hyprpicker {
+  background-color: #282828;
+  /*color: #8EC07C;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 11px 0px 9px;
+  font-weight: bold;
+}
+
+#power-profiles-daemon {
+  background-color: #282828;
+  /*color: #8EC07C;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 11px 0px 9px;
+  font-weight: bold;
+}
+
+#keyboard-state {
+  /*color: #8EC07C;*/
+  border-radius: 16px;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 0px 11px 0px 9px;
+  font-weight: bold;
+}

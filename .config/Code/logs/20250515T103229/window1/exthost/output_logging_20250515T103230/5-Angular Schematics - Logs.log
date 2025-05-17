@@ -1,0 +1,15 @@
+[Info - 10:32:31 AM] Starting workspace configuration loading.
+[Info - 10:32:31 AM] 1 workspace folder(s) detected.
+[Info - 10:32:31 AM] Loading configuration of ".config" workspace folder.
+[Info - 10:32:31 AM] Loading extension configuration
+[Info - 10:32:31 AM] Loading extension configuration from VS Code settings.
+[Info - 10:32:31 AM] Loading dependencies config from package.json.
+[Info - 10:32:31 AM] Found: /home/gab/.config/package.json
+[Info - 10:32:31 AM] Found: /home/gab/package.json
+[Info - 10:32:31 AM] Found: /home/package.json
+[Info - 10:32:32 AM] Loading format configuration
+[Info - 10:32:32 AM] Loading schematics.
+[Info - 10:32:32 AM] 0 schematic(s) loaded.
+[Warning - 10:32:32 AM] No angular.json found
+[Info - 10:32:32 AM] Configuration of all workspace folders is now ready. Duration: 260ms
+[Info - 10:32:32 AM] Reloading format configuration because VS Code settings changed.

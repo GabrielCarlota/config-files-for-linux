@@ -1,0 +1,27 @@
+2025-05-16 19:26:13.453 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-05-16 19:26:13.453 [info] [AutoSync] Enabled.
+2025-05-16 19:26:13.453 [info] [AutoSync] Suspended until auth token is available.
+2025-05-16 19:26:14.023 [info] [AutoSync] Triggered by Interval
+2025-05-16 19:26:14.024 [info] Sync started.
+2025-05-16 19:26:15.093 [info] Settings: No changes found during synchronizing settings.
+2025-05-16 19:26:15.099 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-05-16 19:26:15.102 [info] Snippets: No changes found during synchronizing snippets.
+2025-05-16 19:26:15.104 [info] Tasks: No changes found during synchronizing tasks.
+2025-05-16 19:26:15.408 [info] GlobalState: Updated global state ["workbench.view.extension.test.state.hidden","workbench.panel.repl.hidden","cpp.1.sessionCount","java.2.sessionCount","javascript.1.sessionCount","csharp.1.sessionCount","nps/sessionCount","typescript.1.sessionCount"]
+2025-05-16 19:26:15.408 [info] GlobalState: Updated local ui state
+2025-05-16 19:26:15.409 [info] GlobalState: Updated last synchronized ui state
+2025-05-16 19:26:15.437 [info] Extensions: No changes found during synchronizing extensions.
+2025-05-16 19:26:15.439 [info] Prompts: No changes found during synchronizing prompts.
+2025-05-16 19:26:15.440 [info] Profiles: No changes found during synchronizing profiles.
+2025-05-16 19:26:15.441 [info] Sync done. Took 1455ms
+2025-05-16 19:29:54.268 [info] [AutoSync] Triggered by Activity
+2025-05-16 19:29:54.268 [info] Sync started.
+2025-05-16 19:29:54.855 [info] Settings: No changes found during synchronizing settings.
+2025-05-16 19:29:54.858 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-05-16 19:29:54.861 [info] Snippets: No changes found during synchronizing snippets.
+2025-05-16 19:29:54.863 [info] Tasks: No changes found during synchronizing tasks.
+2025-05-16 19:29:54.867 [info] GlobalState: No changes found during synchronizing ui state.
+2025-05-16 19:29:54.908 [info] Extensions: No changes found during synchronizing extensions.
+2025-05-16 19:29:54.910 [info] Prompts: No changes found during synchronizing prompts.
+2025-05-16 19:29:54.911 [info] Profiles: No changes found during synchronizing profiles.
+2025-05-16 19:29:54.911 [info] Sync done. Took 646ms

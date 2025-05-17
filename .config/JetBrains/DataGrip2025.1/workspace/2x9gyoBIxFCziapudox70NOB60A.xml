@@ -1,0 +1,151 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DBs" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Local: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Local: DSN" type="27e358d6:DataSourceNode" />
+        <item name="SupportMe: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Local: DSN" type="27e358d6:DataSourceNode" />
+        <item name="SupportMe: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 6 table (host: schema SupportMe)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="7ozukbejm8f1" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4b7866d-36a3-4fec-b6b9-4bc7ff0c6afd/console.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"console","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,50,10,21,112,114,111,118,105,100,101,114,115,47,109,97,114,105,97,100,98,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-12,-99,-97,-32,-1,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "SQL": {
+      "usageCount": 4,
+      "lastUsed": 1747412956394
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/gab/.config/JetBrains/DataGrip2025.1/consoles/db/d4b7866d-36a3-4fec-b6b9-4bc7ff0c6afd/console.sql&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="4" lastUsage="1747412956396" />
+    </language>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.124394186" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="Local: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="Local: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Database" order="0" visible="true" weight="0.30977684" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Services" order="5" visible="true" weight="0.3295678" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+      <unified_weights bottom="0.3295678" left="0.30977684" />
+    </layoutV2>
+    <recentWindows>
+      <value>Services</value>
+      <value>Database</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1747356035707">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1747356035707" />
+    <state width="1625" height="293" key="GridCell.Tab.0.bottom" timestamp="1747412970527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1625" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1747412970527" />
+    <state width="1625" height="293" key="GridCell.Tab.0.center" timestamp="1747412970527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1625" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1747412970527" />
+    <state width="1625" height="293" key="GridCell.Tab.0.left" timestamp="1747412970526">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1625" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1747412970526" />
+    <state width="1625" height="293" key="GridCell.Tab.0.right" timestamp="1747412970527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1625" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1747412970527" />
+    <state width="278" height="577" key="HiddenNamespacesPopup" timestamp="1747356053484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="278" height="577" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1747356053484" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4b7866d-36a3-4fec-b6b9-4bc7ff0c6afd/console_1.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4b7866d-36a3-4fec-b6b9-4bc7ff0c6afd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

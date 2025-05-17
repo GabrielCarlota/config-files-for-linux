@@ -1,0 +1,44 @@
+2025-05-16 15:29:55.057 [info] [main] Log level: Info
+2025-05-16 15:29:55.057 [info] [main] Validating found git in: "git"
+2025-05-16 15:29:55.057 [info] [main] Using git "2.49.0" from "git"
+2025-05-16 15:29:55.057 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-16 15:29:55.057 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-16 15:29:55.057 [info] > git rev-parse --git-dir --git-common-dir [21ms]
+2025-05-16 15:29:55.057 [info] [Model][openRepository] Opened repository (path): /home/gab/Desktop/SupportMe
+2025-05-16 15:29:55.057 [info] [Model][openRepository] Opened repository (real path): /home/gab/Desktop/SupportMe
+2025-05-16 15:29:55.071 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-16 15:29:55.072 [info] > git config --get commit.template [9ms]
+2025-05-16 15:29:55.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-16 15:29:55.086 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-16 15:29:55.092 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/gab/Desktop/SupportMe/.git/refs/remotes/origin/main'
+2025-05-16 15:29:55.098 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-05-16 15:29:55.120 [info] > git rev-parse --show-toplevel [23ms]
+2025-05-16 15:29:55.128 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-05-16 15:29:55.130 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-16 15:29:55.132 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-16 15:29:55.580 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-16 15:29:55.779 [info] > git status -z -uall [672ms]
+2025-05-16 15:29:55.797 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-16 15:29:55.804 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-05-16 15:29:55.804 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-16 15:29:55.811 [info] > git config --get commit.template [15ms]
+2025-05-16 15:29:55.819 [info] > git reflog main --grep-reflog=branch: Created from *. [8ms]
+2025-05-16 15:29:55.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-16 15:29:55.833 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/gab/Desktop/SupportMe/.git/refs/remotes/origin/main'
+2025-05-16 15:29:55.833 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [7ms]
+2025-05-16 15:29:55.842 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2025-05-16 15:29:55.853 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [12ms]
+2025-05-16 15:29:55.860 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-05-16 15:29:55.861 [info] > git config --add --local branch.main.vscode-merge-base origin/main [1ms]
+2025-05-16 15:29:55.877 [info] > git status -z -uall [29ms] (cancelled)
+2025-05-16 15:29:55.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-16 15:29:55.886 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2025-05-16 15:29:55.894 [info] > git config --get commit.template [17ms]
+2025-05-16 15:29:55.901 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [7ms]
+2025-05-16 15:29:55.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-16 15:29:55.917 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/gab/Desktop/SupportMe/.git/refs/remotes/origin/main'
+2025-05-16 15:29:55.917 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2025-05-16 15:29:55.930 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2025-05-16 15:29:55.947 [info] > git diff --name-status -z --diff-filter=ADMR 551bf6f53de6c0c73fa690fecbe8833946385afd...refs/remotes/origin/main [17ms]
+2025-05-16 15:29:55.949 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-05-16 15:29:56.590 [info] > git status -z -uall [652ms]

@@ -1,0 +1,10 @@
+package.json roots detected: /home/gab/Desktop/SupportMe/Angular,
+  /home/gab/Desktop/SupportMe/Angular/AngularClient/.angular/cache/19.2.5/AngularClient/vite/deps,
+  /home/gab/Desktop/SupportMe/Angular/AngularClient/.angular/cache/19.2.5/AngularClient/vite/deps_ssr,
+  /home/gab/Desktop/SupportMe/Angular/AngularClient
+Using Angular version 19.2.4.
+[Info  - 7:35:29 PM] Angular language server process ID: 6138
+[Info  - 7:35:29 PM] Imported typescript/lib/tsserverlibrary is version 5.8.3.
+[Info  - 7:35:29 PM] Using @angular/language-service v20.0.0-rc.0 from /home/gab/.vscode/extensions/angular.ng-template-20.0.0/node_modules/@angular/language-service/index.js
+[Info  - 7:35:29 PM] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 7:35:30 PM] Enabling language service for /home/gab/Desktop/SupportMe/Angular/AngularClient/tsconfig.json.

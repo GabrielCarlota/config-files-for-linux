@@ -1,0 +1,14 @@
+* {
+  border: none;
+  min-height: 0;
+  font-family: "JetBrains Nerd Font Mono";
+  font-weight: 500;
+  font-size: 14px;
+  padding: 1;
+}
+
+window#waybar {
+  background: rgba(255, 255, 255, 0);
+  border: 2px solid rgba(255, 255, 255, 0.164);
+  border-radius: 4px;
+}

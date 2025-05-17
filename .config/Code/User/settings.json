@@ -1,0 +1,24 @@
+{
+  "workbench.iconTheme": "icons",
+  "workbench.colorTheme": "Dracula Theme",
+  "workbench.startupEditor": "none",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Jet Brains, Mono, monospace",
+  "terminal.integrated.fontLigatures.enabled": true,
+  "editor.fontLigatures": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 16,
+  "redhat.telemetry.enabled": true
+}

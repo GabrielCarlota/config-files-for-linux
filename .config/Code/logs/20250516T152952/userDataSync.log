@@ -1,0 +1,5 @@
+2025-05-16 15:29:53.442 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-05-16 15:29:53.442 [info] [AutoSync] Enabled.
+2025-05-16 15:29:53.442 [info] [AutoSync] Suspended until auth token is available.
+2025-05-16 15:29:54.004 [info] [AutoSync] Triggered by Interval
+2025-05-16 15:29:54.005 [info] Sync started.

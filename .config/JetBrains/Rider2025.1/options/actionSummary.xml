@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1747446551313" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1747435943647" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="1" l="1747295009165" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="2" l="1747435747518" />
+    </e>
+    <e n="Run">
+      <i c="8" l="1747420059002" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1747420103667" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1747435754003" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="7" l="1747439628490" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1747295043347" />
+    </e>
+  </component>
+</application>

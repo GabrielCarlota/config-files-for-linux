@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DBs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DBs – console" opened="true" projectWorkspaceId="2x9gyoBIxFCziapudox70NOB60A">
+              <option name="activationTimestamp" value="1747414716875" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-251.25410.123" />
+              <option name="buildTimestamp" value="1746630960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="12" y="50" width="1896" height="1018" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1747355961877" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/DBs" />
+  </component>
+</application>

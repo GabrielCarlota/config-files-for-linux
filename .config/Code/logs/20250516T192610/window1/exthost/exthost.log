@@ -1,0 +1,69 @@
+2025-05-16 19:26:13.715 [info] Extension host with pid 2646 started
+2025-05-16 19:26:13.715 [info] Skipping acquiring lock for /home/gab/.config/Code/User/workspaceStorage/115566e1dfcaef2011e172e4948a1247.
+2025-05-16 19:26:13.756 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-16 19:26:13.781 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 19:26:13.790 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 19:26:13.831 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 19:26:13.867 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-16 19:26:14.096 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-16 19:26:14.098 [info] ExtensionService#_doActivateExtension alexiv.vscode-angular2-files, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.108 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.115 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.117 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.135 [info] ExtensionService#_doActivateExtension infinity1207.angular2-switcher, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.137 [info] ExtensionService#_doActivateExtension john-crowson.angular-file-changer, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.187 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.221 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-16 19:26:14.307 [info] Eager extensions activated
+2025-05-16 19:26:14.312 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.313 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.325 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.349 [info] ExtensionService#_doActivateExtension cyrilletuzi.angular-schematics, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.634 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.657 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.913 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.930 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.935 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.942 [error] Activating extension equinusocio.vsc-material-theme-icons failed due to an error:
+2025-05-16 19:26:14.942 [error] Error: Cannot find module 'fs-extra'
+Require stack:
+- /home/gab/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.9.0/out/src/commands/fix-icons.js
+- /home/gab/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.9.0/out/src/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at Function.n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+    at Function.t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:22910)
+    at Module._load (node:internal/modules/cjs/loader:1050:27)
+    at Function.c._load (node:electron/js2c/node_init:2:16955)
+    at Function.e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1509)
+    at Function.t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:22628)
+    at Function.r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22062)
+    at Module.require (node:internal/modules/cjs/loader:1305:19)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/gab/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.9.0/out/src/commands/fix-icons.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1544:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1629:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1103:12)
+    at Function.c._load (node:electron/js2c/node_init:2:16955)
+    at Function.e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1509)
+    at Function.t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:22628)
+    at Function.r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22062)
+    at Module.require (node:internal/modules/cjs/loader:1305:19)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/gab/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.9.0/out/src/extension.js:15:21)
+    at Module._compile (node:internal/modules/cjs/loader:1544:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1629:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1103:12)
+    at Function.c._load (node:electron/js2c/node_init:2:16955)
+    at Function.e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1509)
+    at Function.t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:22628)
+    at Function.r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22062)
+    at Module.require (node:internal/modules/cjs/loader:1305:19)
+    at require (node:internal/modules/helpers:182:18)
+    at PJ.Cb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:1253)
+2025-05-16 19:26:14.942 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:26:14.987 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 19:28:37.866 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-05-16 19:28:42.947 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'

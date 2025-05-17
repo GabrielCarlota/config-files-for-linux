@@ -1,0 +1,70 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1747356220626" />
+    </e>
+    <e n="Console.Jdbc.Execute">
+      <i c="2" l="1747412962673" />
+    </e>
+    <e n="Console.TableResult.AddRow">
+      <i c="2" l="1747412976779" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="2" l="1747413004722" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8" l="1747412997846" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1747412961244" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="2" l="1747356200098" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="4" l="1747356218916" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1747356208529" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1747356219522" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1747355955560" />
+    </e>
+    <e n="Jdbc.OpenConsole.New.Generate">
+      <i c="3" l="1747412955832" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1747355967442" />
+    </e>
+    <e n="WelcomeScreen.CreateDirectoryProject">
+      <i c="1" l="1747355937600" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1747355974042" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
+      <i c="1" l="1747413001208" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
+      <i c="1" l="1747356194463" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1747355924170" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.settingChooser.SettingChooserItemAction">
+      <i c="1" l="1747355926251" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1747413741908" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1747356069829" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1747356228923" />
+    </e>
+  </component>
+</application>

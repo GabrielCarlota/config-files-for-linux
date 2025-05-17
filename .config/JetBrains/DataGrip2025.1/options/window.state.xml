@@ -1,0 +1,16 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1625" height="293" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1625" height="293" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1625" height="293" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1625" height="293" />
+  </component>
+  <component name="SingleStripeButtonsState">
+    <id>Database</id>
+    <id>Project</id>
+    <id>Services</id>
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="50" width="1896" height="1018" />
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/.idea/.idea.ConsoleApp1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/SupportMe" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/SupportMe/.idea/.idea.AplicaçãoSupport" value="true" />
+        <entry key="$USER_HOME$/SupportMe" value="true" />
+        <entry key="$USER_HOME$/SupportMe/.idea/.idea.AplicaçãoSupport" value="true" />
+        <entry key="$USER_HOME$/SupportMe/AplicaçãoSupport" value="true" />
+        <entry key="$USER_HOME$/SupportMe/AplicaçãoSupport/.idea/.idea.AplicaçãoSupport.dir" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

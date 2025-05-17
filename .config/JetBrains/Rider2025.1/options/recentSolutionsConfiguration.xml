@@ -1,0 +1,37 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/SupportMe/AplicaçãoSupport.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SupportMe/AplicaçãoSupport.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SupportMe/AplicaçãoSupport/AplicaçãoSupport.csproj">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

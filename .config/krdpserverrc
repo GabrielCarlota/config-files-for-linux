@@ -1,0 +1,3 @@
+[General]
+Certificate=/home/gabarch/.local/share/krdpserver/krdp.crt
+CertificateKey=/home/gabarch/.local/share/krdpserver/krdp.key

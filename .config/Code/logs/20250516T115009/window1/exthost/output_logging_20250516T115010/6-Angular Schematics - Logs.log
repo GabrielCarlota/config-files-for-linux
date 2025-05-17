@@ -1,0 +1,30 @@
+[Info - 11:50:12 AM] Starting workspace configuration loading.
+[Info - 11:50:12 AM] 1 workspace folder(s) detected.
+[Info - 11:50:12 AM] Loading configuration of "AngularClient" workspace folder.
+[Info - 11:50:12 AM] Loading extension configuration
+[Info - 11:50:12 AM] Loading extension configuration from VS Code settings.
+[Info - 11:50:12 AM] Loading dependencies config from package.json.
+[Info - 11:50:12 AM] Found: /home/gab/SupportMe/Angular/AngularClient/package.json
+[Info - 11:50:12 AM] Found: /home/gab/SupportMe/Angular/package.json
+[Info - 11:50:12 AM] Found: /home/gab/SupportMe/package.json
+[Info - 11:50:12 AM] Found: /home/gab/package.json
+[Info - 11:50:12 AM] Found: /home/package.json
+[Info - 11:50:12 AM] Loading format configuration
+[Info - 11:50:12 AM] Loading schematics.
+[Info - 11:50:12 AM] Loading Angular configuration from: /home/gab/SupportMe/Angular/AngularClient/angular.json
+[Info - 11:50:12 AM] 9 schematic(s) loaded.
+[Info - 11:50:12 AM] Loading "_0x304fbb" Angular project's lint configuration.
+[Info - 11:50:12 AM] "AngularClient" Angular project is of type "application" and its source path is: src.
+[Info - 11:50:12 AM] 1 Angular project(s) detected.
+[Info - 11:50:12 AM] Configuration of all workspace folders is now ready. Duration: 86ms
+[Info - 11:50:12 AM] Reloading format configuration because VS Code settings changed.
+[Info - 11:52:48 AM] Reloading dependencies config because package.json changed.
+[Info - 11:52:48 AM] Reloading Angular configuration because dependencies changed.
+[Info - 11:52:48 AM] Loading "_0x304fbb" Angular project's lint configuration.
+[Info - 11:52:48 AM] "AngularClient" Angular project is of type "application" and its source path is: src.
+[Info - 11:52:48 AM] 1 Angular project(s) detected.
+[Info - 11:53:19 AM] Reloading dependencies config because package.json changed.
+[Info - 11:53:19 AM] Reloading Angular configuration because dependencies changed.
+[Info - 11:53:19 AM] Loading "_0x304fbb" Angular project's lint configuration.
+[Info - 11:53:19 AM] "AngularClient" Angular project is of type "application" and its source path is: src.
+[Info - 11:53:19 AM] 1 Angular project(s) detected.

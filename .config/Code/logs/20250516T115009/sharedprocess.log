@@ -1,0 +1,12 @@
+2025-05-16 11:50:10.586 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 11:50:10.761 [info] Deleted marked for removal extension from disk bradlc.vscode-tailwindcss /home/gab/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.16
+2025-05-16 11:50:10.830 [info] Deleted marked for removal extension from disk redhat.java /home/gab/.vscode/extensions/redhat.java-1.41.1-linux-x64
+2025-05-16 11:50:10.846 [info] Deleted marked for removal extension from disk ms-python.python /home/gab/.vscode/extensions/ms-python.python-2025.6.0-linux-x64
+2025-05-16 11:50:15.804 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 11:50:17.582 [info] Getting Manifest... pkief.material-icon-theme
+2025-05-16 11:50:17.697 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gab/.vscode/extensions/extensions.json","path":"/home/gab/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-16 11:50:18.724 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 578ms.
+2025-05-16 11:50:18.983 [info] Extracted extension to file:///home/gab/.vscode/extensions/pkief.material-icon-theme-5.23.0: pkief.material-icon-theme
+2025-05-16 11:50:18.995 [info] Renamed to /home/gab/.vscode/extensions/pkief.material-icon-theme-5.23.0
+2025-05-16 11:50:19.004 [info] Marked extension as removed pkief.material-icon-theme-5.22.0
+2025-05-16 11:50:19.016 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/gab/.vscode/extensions/extensions.json

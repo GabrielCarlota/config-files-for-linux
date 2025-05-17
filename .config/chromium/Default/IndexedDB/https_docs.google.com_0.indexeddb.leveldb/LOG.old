@@ -1,0 +1,6 @@
+2025/05/16-20:06:54.521 1469 Creating DB /home/gab/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2025/05/16-20:06:54.523 1469 Reusing MANIFEST /home/gab/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/16-20:06:56.605 146a Level-0 table #5: started
+2025/05/16-20:06:56.605 146a Level-0 table #5: 7297 bytes OK
+2025/05/16-20:06:56.606 146a Delete type=0 #3
+2025/05/16-20:06:56.606 146a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

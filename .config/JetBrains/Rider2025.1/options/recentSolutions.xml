@@ -1,0 +1,74 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ConsoleApp1 – Program.cs" projectWorkspaceId="2x7hSTCGfdfKYDJjRjtQaIvOrDn">
+              <option name="activationTimestamp" value="1747295049862" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="4" y="62" width="953" height="1014" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747295019786" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SupportMe/AplicaçãoSupport/AplicaçãoSupport.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="AplicaçãoSupport" frameTitle="AplicaçãoSupport" projectWorkspaceId="2xBmqRDDXvycjBQY3F9xou0alHj">
+              <option name="activationTimestamp" value="1747420039724" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="967" y="50" width="941" height="1018" />
+              <option name="metadata" value="AplicaçãoSupport|/home/gab/SupportMe/AplicaçãoSupport/AplicaçãoSupport.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747420032922" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SupportMe/AplicaçãoSupport.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AplicaçãoSupport" projectWorkspaceId="2x9WUcBKsD1dXj0UU9excJq0oJK">
+              <option name="activationTimestamp" value="1747420106004" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="12" y="50" width="1896" height="1018" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747420049812" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/SupportMe/AplicaçãoSupport.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AplicaçãoSupport – Program.cs" projectWorkspaceId="2xCJ3CtPeNDuaAQgSpuM4A8dq4k">
+              <option name="activationTimestamp" value="1747439628582" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="12" y="50" width="1896" height="1018" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747435921797" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RiderProjects/SupportMe/AplicaçãoSupport.sln" />
+  </component>
+</application>

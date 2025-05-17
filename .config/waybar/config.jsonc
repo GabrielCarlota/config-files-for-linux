@@ -1,0 +1,135 @@
+{
+  "layer": "top",
+  "spacing": 0,
+  "height": 0,
+
+  "margin-top": 8,
+  "margin-right": 8,
+  "margin-bottom": 0,
+  "margin-left": 8,
+
+  "modules-left": ["custom/logoff", "clock"],
+
+  "modules-center": ["hyprland/workspaces"],
+
+  "modules-right": [
+    "tray",
+    //"hyprland/language",
+    "cpu",
+    "memory",
+    "battery",
+    "network",
+    "pulseaudio",
+    "temperature"
+    /*"custom/control"*/
+  ],
+
+  "custom/launcher": {
+    "format": " ",
+    "on-click": "rofi -show drun",
+    "on-click-right": "killall rofi",
+    "tooltip": false
+  },
+
+  "hyprland/workspaces": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "tooltip": false,
+    "format": "{icon}",
+    "format-icons": {
+      "1": "1:  ",
+      "2": "2:  ",
+      "3": "3:  ",
+      "4": "4:  ",
+      "5": "5:  ",
+      "6": "6:  ",
+      "7": "7:  ",
+      "8": "8:  ",
+      "9": "9:  "
+    }
+  },
+
+  "tray": {
+    "spacing": 10,
+    "tooltip": false
+  },
+
+  "clock": {
+    "format": "{:%H:%M - %A, %d/%b/%Y}",
+    "tooltip": false,
+    "interval": "1"
+  },
+
+  "cpu": {
+    "format": " : {usage}%",
+    "interval": 1,
+
+    "states": {
+      "critical": 50
+    }
+  },
+
+      "temperature": {
+        "thermal-zone": 1,
+        // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 70,
+        "format-critical": "{temperatureC}°C !!!",
+        "format": "{temperatureC}°C ",
+        "interval":5
+    },
+
+  "memory": {
+    "format": " : {percentage}%",
+    "interval": 1,
+
+    "states": {
+      "critical": 50
+    }
+  },
+
+    "battery": {
+        "bat": "BAT1",
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}",
+        /*"format-good": "",
+        "format-full": "",*/
+        "format-icons": [" ", " ", " ", " ", " "
+        ]
+    },
+  "network": {
+    "format-wifi": "Wi-Fi  : {bandwidthDownBits}",
+    "format-ethernet": "󰈀  ETH: {bandwidthDownBits}",
+    "format-disconnected": "󰖪",
+    "interval": 1,
+    "tooltip": false
+  },
+
+  "pulseaudio": {
+    "scroll-step": 5,
+    "max-volume": 400,
+    "format": "vol {volume}%",
+    "format-bluetooth": "vol {volume}%",
+    "nospacing": 1,
+    "on-click": "pavucontrol",
+    "tooltip": false
+  },
+
+  "hyprland/language": {
+    "format": "{short}"
+  },
+
+  "custom/control": {
+    "format": " ",
+    "on-click": "control",
+    "on-click-right": "killall control",
+    "tooltip": false
+  },
+  "custom/logoff": {
+    "format": "⏻ ",
+    "on-click": "systemctl poweroff"
+  }
+}

@@ -1,0 +1,6 @@
+2025/05/17-14:56:11.556 4 Reusing MANIFEST /home/gab/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/17-14:56:11.561 4 Recovering log #61
+2025/05/17-14:56:11.562 4 Reusing old log /home/gab/.config/chromium/Default/Local Storage/leveldb/000061.log 
+2025/05/17-14:57:11.566 5 Level-0 table #65: started
+2025/05/17-14:57:11.572 5 Level-0 table #65: 28879 bytes OK
+2025/05/17-14:57:11.574 5 Delete type=0 #61
